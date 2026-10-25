@@ -2,9 +2,9 @@
   "$schema": "./schema/register.schema.json",
   "openrepos.io": {},
   "openrepos.org": {
-    "kubecell": {
-      "repo": "https://github.com/taosher/KubeCell",
-      "target": "kubecell.pages.dev"
+    "aura": {
+      "repo": "https://github.com/malvenk/malvenk.github.io",
+      "target": "malvenk.github.io"
     }
   },
   "openrepos.sh": {},
